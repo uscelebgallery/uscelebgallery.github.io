@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://uscelebgallery.github.io/sitemap.xml
